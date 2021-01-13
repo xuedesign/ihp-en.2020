@@ -2627,7 +2627,8 @@ input.checkme:checked~div.showme{
 .subcc{
     display: block;
     width: 100%;
-    padding: 20px 30px}
+    padding: 20px 30px;
+    text-align: justify;}
 .subcc h4{
     padding: 20px 0 0}
 .subcc ol,
@@ -2635,7 +2636,7 @@ input.checkme:checked~div.showme{
     display: block;
     padding: 0 30px 15px;}
 .subcc ol li{
-    list-style: decimal;
+    list-style: lower-alpha;
     padding: 5px 0}
 .subcc ul li{
     list-style: circle;
