@@ -1982,7 +1982,7 @@ table.bt.bt--no-header tbody td::before {
     padding-bottom: 10px;}
 #book-info .info-name{
     display: block;
-    width: 18%;
+    width: 20%;
     font-weight: bold;
     text-align: right;
     margin-right: 15px;
@@ -1991,10 +1991,10 @@ table.bt.bt--no-header tbody td::before {
 #book-info .info-value,
 #book-info .book-brief{
     display: block;
-    width: 75%;}
+    width: 75%}   
 #book-info p{
     line-height: 2.8rem;
-    text-align: justify}
+    text-align: left}
 #book-info .book-brief p{
     margin-bottom: 15px}
 

@@ -186,7 +186,7 @@ h1 a{
 .publsit-type02 li{
     width: 49%}
 #book-info .info-name{
-    width: 25%}
+    width: 30%}
 #book-info .info-value,
 #book-info .book-brief{
     width: 70%;}
@@ -252,7 +252,14 @@ h1 a{
     width: 100%;
     padding-left: 55px}
 .international-item li{
-    padding-bottom: 10px}          
+    padding-bottom: 10px}
+#buy-list li{
+    width: 100%;
+    border-bottom: 1px dashed #cccccc;
+    padding-bottom: 8px;
+    margin-bottom: 15px}
+#buy-list hr{
+    display: none}          
 }
 
 /*
@@ -350,13 +357,6 @@ header,
 #publications-article > 
 .editoral-board-auther p{
     width: 49%}
-#buy-list li{
-    width: 100%;
-    border-bottom: 1px dashed #cccccc;
-    padding-bottom: 8px;
-    margin-bottom: 15px}
-#buy-list hr{
-    display: none}
 #book-summary{
     display: block}
 #book-cover{
@@ -365,7 +365,7 @@ header,
 #book-info{
     width: 100%}
 #book-info .info-name{
-    width: 15%}
+    width: 20%}
 #book-info .info-value,
 #book-info .book-brief{
     width: 80%;}
