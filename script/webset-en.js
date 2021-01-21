@@ -67,7 +67,7 @@ loadjs('https://cdn.jsdelivr.net/npm/basictable/jquery.basictable.min.js', funct
             breakpoint: 600
         });
         $('#catlogtable').basictable({
-            breakpoint: 768
+            breakpoint: 1100
         });
     });  
 });
